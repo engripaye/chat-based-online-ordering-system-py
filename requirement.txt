@@ -1,0 +1,4 @@
+Flask==2.3.2
+Flask-MySQLdb==1.0.1
+Flask-JWT-Extended==4.6.0
+Werkzeug==2.3.7
